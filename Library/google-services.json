@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "499718439714",
+    "firebase_url": "https://primeraapp-5a3e6-default-rtdb.firebaseio.com",
+    "project_id": "primeraapp-5a3e6",
+    "storage_bucket": "primeraapp-5a3e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499718439714:android:b2f2320fd1838e97bb9b7b",
+        "android_client_info": {
+          "package_name": "com.example.ejemplo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgry26zHEQjgthknEQU1FoFGoeGCR6wNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
